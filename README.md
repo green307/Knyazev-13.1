@@ -30,6 +30,13 @@
 
 ![alt text](https://github.com/green307/Knyazev-13.1/blob/7a112c46f670c10f886672b21e5ffeef194dc4f7/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51-1-1.jpg)
 
+
+ссылки https://www.exploit-db.com/exploits/17491
+
+https://www.exploit-db.com/exploits/15449
+
+https://www.exploit-db.com/exploits/37721
+
 Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
